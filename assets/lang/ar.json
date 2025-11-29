@@ -1,0 +1,29 @@
+{
+  "appTitle": "تطبيق المهام",
+  "addTask": "إضافة مهمة",
+  "taskTitle": "عنوان المهمة",
+  "taskCategory": "التصنيف",
+  "taskDate": "التاريخ",
+  "save": "حفظ",
+  "cancel": "إلغاء",
+  "noTasks": "لا توجد مهام بعد",
+  "deleteTask": "حذف المهمة",
+  "editTask": "تعديل المهمة",
+  "markDone": "تحديد كمكتملة",
+  "markUndone": "إلغاء الاكتمال",
+  "home": "الرئيسية",
+  "tasks": "المهام",
+  "settings": "الإعدادات",
+  "noDateSelected": "لم يتم اختيار تاريخ",
+  "selectDate": "اختر التاريخ",
+  "addNewCategory": "إضافة فئة جديدة",
+  "categoryName": "اسم الفئة",
+  "pleaseFillFields": "يرجى تعبئة جميع الحقول",
+  "NoDataSelected": "لم يتم الاختيار بعد",
+  "whatIsToDo": "ما الذي تريد القيام به؟",
+  "categories": {
+    "work": "العمل",
+    "home": "المنزل",
+    "study": "الدراسة"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "appTitle": "To-Do App",
+  "addTask": "Add Task",
+  "taskTitle": "Task Title",
+  "taskCategory": "Category",
+  "taskDate": "Date",
+  "save": "Save",
+  "cancel": "Cancel",
+  "noTasks": "No tasks yet",
+  "deleteTask": "Delete Task",
+  "editTask": "Edit Task",
+  "markDone": "Mark as Done",
+  "markUndone": "Mark as Undone",
+  "home": "Home",
+  "tasks": "Tasks",
+  "settings": "Settings",
+  "categories": {
+    "work": "Work",
+    "home": "Home",
+    "study": "Study"
+  },
+  "noDateSelected": "No date selected",
+  "selectDate": "Select Date",
+  "NoDataSelected": "no data selected",
+  "addNewCategory": "Add new category",
+  "categoryName": "Category name",
+  "pleaseFillFields": "Please fill all fields",
+  "whatIsToDo": "What is to do?"
+}
