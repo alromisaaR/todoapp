@@ -24,8 +24,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/alromisaaR/](https://github.com/alromisaaR/)todoapp
-.git
+   git clone https://github.com/alromisaaR/todoapp.git
+   cd todoapp
 
 2. Install dependencies:
    Bash
